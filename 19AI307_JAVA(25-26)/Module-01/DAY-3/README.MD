@@ -3,7 +3,7 @@
 ## QUESTION:
 Construct a right-angled triangle star pattern using for loop.
 ## AIM:
-
+To write a Java program using looping statements to print a right-angled triangle star pattern based on user input.
 
 ## ALGORITHM :
 1.	Start the program.
@@ -61,5 +61,6 @@ public class TrianglePattern
 
 ## RESULT:
 Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
+
 
 
