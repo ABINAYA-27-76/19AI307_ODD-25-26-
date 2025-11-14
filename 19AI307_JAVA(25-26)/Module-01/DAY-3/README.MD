@@ -1,24 +1,7 @@
 # Ex.No:1(C) LOOPING STATEMENT
 
 ## QUESTION:
-Print Right-Angled Triangle Star Pattern
-
-For example:
-
-Input	:
-
-3
-
-Result:
-
-*
-
-* *
-
-* * *
-
-
-
+Construct a right-angled triangle star pattern using for loop.
 ## AIM:
 
 
@@ -78,4 +61,5 @@ public class TrianglePattern
 
 ## RESULT:
 Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
+
 
