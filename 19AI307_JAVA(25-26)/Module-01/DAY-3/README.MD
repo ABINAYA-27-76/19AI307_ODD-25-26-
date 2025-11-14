@@ -6,10 +6,15 @@ Print Right-Angled Triangle Star Pattern
 For example:
 
 Input	:
+
 3
+
 Result:
+
 *
+
 * *
+
 * * *
 
 
@@ -73,3 +78,4 @@ public class TrianglePattern
 
 ## RESULT:
 Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
+
