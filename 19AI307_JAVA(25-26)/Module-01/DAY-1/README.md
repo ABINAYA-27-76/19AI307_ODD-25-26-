@@ -39,13 +39,13 @@ To write a Java program that uses conditional statements to determine the state 
 11. Display “The house is dark”.
 
 12. End the program.
-13. 
+
 ## PROGRAM:
  ```
 /*
-Program to implement variables and Operators using Java
+Program to implement a conditional statement using Java
 Developed by: Abinaya A
-RegisterNumber: 21223040003 
+RegisterNumber: 212223040003 
 */
 ```
 
@@ -80,3 +80,4 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
