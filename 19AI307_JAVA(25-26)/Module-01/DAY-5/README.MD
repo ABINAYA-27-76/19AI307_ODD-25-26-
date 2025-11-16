@@ -14,8 +14,8 @@ To write a Java program to compute the power of a number using the Math.pow() fu
 3.	Read the base value from the user.
 4. Read the exponent value from the user.
 5. Use the Math.pow(base, exponent) function to calculate the power.
-6.Display the result.
-7.Stop the program.
+6. Display the result.
+7. Stop the program.
 
 ## PROGRAM:
  ```
@@ -54,3 +54,4 @@ public class PowerCalculation {
 
 ## RESULT:
 Thus, the Java program to calculate the power of a given number using Math function was successfully executed.
+
