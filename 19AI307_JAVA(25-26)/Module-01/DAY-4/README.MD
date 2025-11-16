@@ -33,9 +33,10 @@ RegisterNumber:
 
 
 ## OUTPUT:
-![OUTPUT](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/6ed7585be056c8a3d06fa742d3897bd22d73cc27/19AI307_JAVA(25-26)/Module-01/DAY-4/output.jpg?raw=true)
+![OUTPUT](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/89cca4a56df2cfb4774052b6ca0e2fe103f4875f/19AI307_JAVA(25-26)/Module-01/DAY-4/output.jpg)
 
 ## RESULT:
+
 
 
 
