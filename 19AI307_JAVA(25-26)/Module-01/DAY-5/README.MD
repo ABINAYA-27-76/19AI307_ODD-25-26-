@@ -49,11 +49,12 @@ public class PowerCalculation {
 
 
 ## OUTPUT:
-19AI307_JAVA(25-26)/Module-01/DAY-5/Screenshot 2025-11-17 002442.png
+https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/48e3a0e8c1eaa81a22e732def7d6ac38d8c6d9ba/19AI307_JAVA(25-26)/Module-01/DAY-5/Screenshot%202025-11-17%20002442.png
 
 
 ## RESULT:
 Thus, the Java program to calculate the power of a given number using Math function was successfully executed.
+
 
 
 
