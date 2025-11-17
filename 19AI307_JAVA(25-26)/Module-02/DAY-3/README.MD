@@ -79,8 +79,9 @@ public class Main
 
 ## OUTPUT:
 
-![java23](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/tree/60a35f2a16c0f117fb0240e36c5d16eab76c4783/19AI307_JAVA(25-26)/Module-02/DAY-3)
+![java23](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/025b00cfa6e057b13e81ffd84dd75ef76213a9db/19AI307_JAVA(25-26)/Module-02/DAY-3/java23.png)
 
 ## RESULT:
 Thus, a Java program to implement Access Specifiers using private variables with public getter and setter methods was executed successfully.
+
 
