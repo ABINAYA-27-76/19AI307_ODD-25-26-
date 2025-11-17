@@ -136,8 +136,9 @@ public class Main {
 }
 ```
 ## OUTPUT:
-
+![java31](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/14dc8b0a86e753d5e3ad7f7ea47059065871c1c7/19AI307_JAVA(25-26)/Module-03/DAY-1/java31.png)
 
 
 ## RESULT:
 Thus, the Java program demonstrating Inheritance and Aggregation using customer types with different discount calculations was successfully executed.
+
