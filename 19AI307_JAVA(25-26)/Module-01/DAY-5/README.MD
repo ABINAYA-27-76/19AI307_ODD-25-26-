@@ -53,7 +53,9 @@ public class PowerCalculation {
 https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/60de85312313375f26a6209ca2fa9969e1ce637a/19AI307_JAVA(25-26)/Module-01/DAY-5/Screenshot%202025-11-17%20002442.png
 
 
+
 ## RESULT:
 Thus, the Java program to calculate the power of a given number using Math function was successfully executed.
+
 
 
