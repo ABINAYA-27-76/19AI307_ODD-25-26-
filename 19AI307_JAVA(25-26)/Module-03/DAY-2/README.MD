@@ -83,7 +83,9 @@ public class Main {
 
 ## OUTPUT:
 
+![java32](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/508d76d2dc9f661dc9ddb5bb22d00b081114519e/19AI307_JAVA(25-26)/Module-03/DAY-2/java32.png)
 
 
 ## RESULT:
+
 
