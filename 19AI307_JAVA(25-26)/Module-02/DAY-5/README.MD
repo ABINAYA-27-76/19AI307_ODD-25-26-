@@ -58,7 +58,8 @@ class prog {
 
 ## OUTPUT:
 
-
+![java25](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/1d041f830e60c366d7b4eaa39bb473ed78dd8001/19AI307_JAVA(25-26)/Module-02/DAY-5/java25.png)
 
 ## RESULT:
 Thus, a Java program to implement Access Modifiers with static and non-static methods was executed successfully.
+
