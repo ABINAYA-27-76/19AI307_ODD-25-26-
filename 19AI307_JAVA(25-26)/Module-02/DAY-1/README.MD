@@ -72,9 +72,11 @@ class prog {
 
 
 ## OUTPUT:
- 
+
+![Screenshot 2025-11-16 212511](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/f4678ded3f5d700b48ed69952ea8e2696ab06d80/19AI307_JAVA(25-26)/Module-02/DAY-1/Screenshot%202025-11-16%20212511.png)
 
 
 ## RESULT:
 
 Thus, the Java program to implement a Class and Object using a Person class was successfully executed and verified.
+
