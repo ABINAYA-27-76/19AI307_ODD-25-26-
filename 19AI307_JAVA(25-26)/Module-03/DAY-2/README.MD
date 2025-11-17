@@ -88,4 +88,5 @@ public class Main {
 
 ## RESULT:
 
+Thus, the Java program demonstrating Polymorphism using Method Overriding was successfully executed.
 
