@@ -67,8 +67,9 @@ class prog {
 
 ## OUTPUT:
 
-
+![java24](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/deb86e008500c33f568047cc6e92298e774f4c47/19AI307_JAVA(25-26)/Module-02/DAY-4/java24.png)
 
 ## RESULT:
 
 Thus, the Java program to demonstrate variable scope and constructor was executed successfully.
+
