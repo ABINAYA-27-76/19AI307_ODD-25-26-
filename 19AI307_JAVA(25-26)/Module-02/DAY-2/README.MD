@@ -57,9 +57,10 @@ public class Main
 
 
 ## OUTPUT:
-
+![java22](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/17d1b46f75f555eafc990d99c8d9e5297e25ca2f/19AI307_JAVA(25-26)/Module-02/DAY-2/java22.png)
 
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
+
 
