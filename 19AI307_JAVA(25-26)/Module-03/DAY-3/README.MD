@@ -102,8 +102,9 @@ public class Main {
 
 ## OUTPUT:
 
-
+![java33](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/838b2936e04f552789e71372bc8cc875126469d1/19AI307_JAVA(25-26)/Module-03/DAY-3/java33.png)
 
 ## RESULT:
 Thus, the Java program demonstrating Abstraction using an abstract class and derived classes was executed successfully.
+
 
