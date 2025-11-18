@@ -59,8 +59,9 @@ public class NullCheck
 
 
 ## OUTPUT:
-
+![java41](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/9322907efbe6666ef88acb6049076b422ed172f1/19AI307_JAVA(25-26)/Module-04/DAY-1/java41.png)
 
 
 ## RESULT:
 Thus, the program demonstrates that calling .toString() on a null object causes a NullPointerException, and the exception can be prevented using a try-catch block.
+
