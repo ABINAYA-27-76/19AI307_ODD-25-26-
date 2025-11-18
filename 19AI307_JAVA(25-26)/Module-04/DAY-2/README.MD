@@ -80,8 +80,9 @@ public class prog {
 
 ## OUTPUT:
 
-
+![java42](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/307e4889adff0712306078adcc9b86614a3f814f/19AI307_JAVA(25-26)/Module-04/DAY-2/java42.png)
 
 ## RESULT:
 Thus, the program to simulate a Singleton Print Spooler Manager using SOLID principles was successfully implemented and executed.
+
 
