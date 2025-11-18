@@ -54,7 +54,8 @@ public class LargestDigit {
 
 ## OUTPUT:
 
-
+![java36](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/81caee57fce6fff987403423e665ea8f13ba347d/19AI307_JAVA(25-26)/Module-03/DAY-5(B)/java36.png)
 
 ## RESULT:
 Thus, the program to find the largest digit in a number using Wrapper Class methods was successfully executed.
+
