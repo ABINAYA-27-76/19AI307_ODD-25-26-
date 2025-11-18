@@ -105,7 +105,8 @@ public class Main {
 
 ## OUTPUT:
 
-
+![java44](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/b628a27d8352a971924fad5b0adffc7f5f8644ba/19AI307_JAVA(25-26)/Module-04/DAY-4/java44.png)
 
 ## RESULT:
 Thus, the Java program to simulate Shape Drawing using the Factory Design Pattern was successfully implemented and executed.
+
