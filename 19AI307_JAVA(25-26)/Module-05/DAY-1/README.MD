@@ -61,7 +61,8 @@ public class FileWriterExampleUserInput {
 
 ## OUTPUT:
 
-
+![java51](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/a9261fe7fb8a08b278b91f6a1a979055f59755dc/19AI307_JAVA(25-26)/Module-05/DAY-1/java51.png)
 
 ## RESULT:
 Thus, the Java program to write characters to a file using FileWriter was successfully executed and verified.
+
