@@ -72,9 +72,10 @@ public class WordCountInFile {
 
 
 ## OUTPUT:
-
+![java53](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/6117fd83efb67a2066ea2c15c1ee8c4e274b4538/19AI307_JAVA(25-26)/Module-05/DAY-3/java53.png)
 
 
 ## RESULT:
 Thus, the Java program that counts the number of words in a file using file handling was successfully executed.
+
 
