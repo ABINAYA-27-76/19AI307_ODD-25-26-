@@ -52,8 +52,10 @@ public class ThreadPriorityExample {
 
 ## OUTPUT:
 
+![java54](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/7d952630fc35928069eb8db8971d42aa9400df96/19AI307_JAVA(25-26)/Module-05/DAY-4/java54.png)
 
 
 ## RESULT:
 Thus, the Java program that demonstrates thread naming and thread priority was successfully executed.
+
 
